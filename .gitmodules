@@ -1,0 +1,3 @@
+[submodule "cs-efcore-odata-composition"]
+	path = cs-efcore-odata-composition
+	url = https://github.com/5enthilbaliah/cs-efcore-odata-composition.git
